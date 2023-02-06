@@ -7,3 +7,12 @@
             System.out.println("Podaj nazwę google");
             System.out.println("Podaj poprawne hasło");
             System.out.println("Kliknij na przycisk zaloguj");
+        }
+
+public void logowanieMicorsoft() {
+            System.out.println("Podaj email Microsoft");
+            System.out.println("Podaj poprawne hasło");
+            System.out.println("Kliknij na przycisk zaloguj");
+}
+public void [przypomnij_Hasło]() {
+            System.out.println("kliknij na przycisk przypomnij hasło");
